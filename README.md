@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👩🏻‍💻 I'm an IT analyst working around requirements engineering and testing, and an IT engineering student learning to code and all things around. 
+
+🤘🏻 Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff. 
+
