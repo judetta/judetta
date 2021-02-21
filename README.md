@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩🏻‍💻 I'm an IT analyst working around requirements engineering and testing, and an IT engineering student learning to code and all things around. 
+I am 
 
-🤘🏻 Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff. 
+- 👩🏻‍💻 IT analyst working around requirements engineering and testing
+- 👩🏻‍🎓 IT engineering student learning to code and all that kinda stuff
+- 🤸🏻‍♀️ beatsaberian on Oculus Quest
+- 🎶 music lover, especially heavier one 🤘🏻
+- 🚘 EV enthusiast
+
+⭐ Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff. 
 
