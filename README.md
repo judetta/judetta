@@ -22,6 +22,7 @@ I am
 - 🤸🏻‍♀️ beatsaberian on Oculus Quest
 - 🎶 music lover, especially heavier one 🤘🏻
 - 🚘 EV enthusiast
+- ✨ interested in learning to create beautiful and functional websites and front end
 
 ⭐ Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff. 
 
