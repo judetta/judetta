@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 New here and not much to show yet... but getting there, maybe 🤔
 
-I am 
+### I am 
 
 - 👩🏻‍💻 IT analyst working around requirements engineering and testing
 - 👩🏻‍🎓 IT engineering student learning to code and all that kinda stuff
@@ -26,5 +26,4 @@ I am
 - 🚘 EV enthusiast
 - ✨ interested in learning to create beautiful and functional websites and front end
 
-⭐ Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff. 
-
+👉🏻 Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff. 👈🏻 
