@@ -28,6 +28,7 @@ New here and not much to show yet... but getting there, maybe 🤔
 ### I love
 
 - 👩🏻‍🔧 crafting awesome user stories
+- 🔗 solving puzzles
 - ✅ getting things done
 - 🎨 creating something beautiful and functional
 - 🎶 music, especially heavier kind 🤘🏻
