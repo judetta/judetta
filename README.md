@@ -22,8 +22,14 @@ New here and not much to show yet... but getting there, maybe 🤔
 - 👩🏻‍💻 IT analyst working around requirements engineering and testing
 - 👩🏻‍🎓 IT engineering student learning to code and all that kinda stuff
 - 🤸🏻‍♀️ beatsaberian on Oculus Quest
-- 🎶 music lover, especially heavier one 🤘🏻
 - 🚘 EV enthusiast
-- ✨ interested in learning to create beautiful and functional websites and front end
+- 👶🏻 a total noob in coding
+
+### I love
+
+- 👩🏻‍🔧 crafting awesome user stories
+- ✅ getting things done
+- 🎨 creating something beautiful and functional
+- 🎶 music, especially heavier kind 🤘🏻
 
 👉🏻 Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff. 👈🏻 
