@@ -27,10 +27,10 @@ New here and not much to show yet... but getting there, maybe 🤔
 
 ### I love
 
+- 💡 developing ideas into functionalities
 - 👩🏻‍🔧 crafting awesome user stories
 - 🔗 solving puzzles
 - ✅ getting things done
 - 🎨 creating something beautiful and functional
-- 🎶 music, especially heavier kind 🤘🏻
 
 👉🏻 Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff. 👈🏻 
