@@ -19,11 +19,12 @@ New here and not much to show yet... but getting there, maybe 🤔
 
 ### I am 
 
-- 👩🏻‍💻 IT analyst working around requirements engineering and testing
+- 👩🏻‍💻 IT product support specialist working mainly with SQL databases
 - 👩🏻‍🎓 IT engineering student learning to code and all that kinda stuff
 - 🤸🏻‍♀️ beatsaberian on Oculus Quest
 - 🚘 EV enthusiast
 - 👶🏻 a total noob in coding
+- 🌱 possibly a future developer
 
 ### I love
 
