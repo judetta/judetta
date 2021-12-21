@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-New here and not much to show yet... but getting there, maybe 🤔
+Not much to show yet... but getting there, maybe 🤔
 
 ### I am 
 
