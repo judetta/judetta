@@ -23,8 +23,7 @@ Not much to show yet... but getting there, maybe 🤔
 - 👩🏻‍🎓 IT engineering student learning to code and all that kinda stuff
 - 🤸🏻‍♀️ beatsaberian on Oculus Quest
 - 🚘 EV enthusiast
-- 👶🏻 a total noob in coding
-- 🌱 possibly a future developer
+- 👶🏻 a very junior coder
 
 ### I love
 
@@ -34,4 +33,4 @@ Not much to show yet... but getting there, maybe 🤔
 - ✅ getting things done
 - 🎨 creating something beautiful and functional
 
-👉🏻 Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff. 👈🏻 
+👉🏻 Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff.
