@@ -19,16 +19,14 @@ Not much to show yet... but getting there, maybe 🤔
 
 ### I am 
 
-- 👩🏻‍💻 IT product support specialist working mainly with SQL databases
+- 👩🏻‍💻 junior frontend developer building an energy and sustainability management system
 - 👩🏻‍🎓 IT engineering student learning to code and all that kinda stuff
 - 🤸🏻‍♀️ beatsaberian on Oculus Quest
 - 🚘 EV enthusiast
-- 👶🏻 a very junior coder
 
 ### I love
 
 - 💡 developing ideas into functionalities
-- 👩🏻‍🔧 crafting awesome user stories
 - 🔗 solving puzzles
 - ✅ getting things done
 - 🎨 creating something beautiful and functional
