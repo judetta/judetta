@@ -15,20 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Not much to show yet... but getting there, maybe 🤔
+I'm a frontend developer working with Angular to build the coolest energy and sustainability management solution on the market.
 
-### I am 
+I also play with React, Node.js, Python and whatever interesting drops on my way.
 
-- 👩🏻‍💻 junior frontend developer building an energy and sustainability management system
-- 👩🏻‍🎓 IT engineering student learning to code and all that kinda stuff
-- 🤸🏻‍♀️ beatsaberian on Oculus Quest
-- 🚘 EV enthusiast
+I love...
 
-### I love
-
-- 💡 developing ideas into functionalities
-- 🔗 solving puzzles
-- ✅ getting things done
-- 🎨 creating something beautiful and functional
+ 💡 developing ideas into functionalities
+ 🔗 solving puzzles
+ ✅ getting things done
+ 🎨 creating something beautiful and functional
 
 👉🏻 Here you'll find some small projects that I do for practice and for fun, maybe also some actually useful stuff.
