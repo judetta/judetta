@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a frontend developer working with Angular to build the coolest energy and sustainability management solution on the market.
+I'm a junior frontend developer working with Angular to build the coolest energy and sustainability management solution on the market.
 
 I also play with React, Node.js, Python and whatever interesting drops on my way.
 
