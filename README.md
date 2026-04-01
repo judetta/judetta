@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a frontend developer working with Angular to build the coolest energy and sustainability management solution on the market.
+I'm a developer working with .NET backend and Angular frontend to build the coolest energy and sustainability management solution on the market.
 
 I also play with React, Node.js, Python and whatever interesting drops on my way.
 
